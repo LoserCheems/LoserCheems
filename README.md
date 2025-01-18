@@ -1,15 +1,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LoserCheems&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" />
 
-<img align="top" src="https://komarev.com/ghpvc/?username=LoserCheems" alt="losercheems" />
-
 
 # Jingze Shi
 
 ### *Independent Researcher* 🐕
 
 - 2022.9-*Present* Undergraduate Student
-
-
 
 
 ## Competition Awards 🏆
@@ -37,3 +33,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoserCheems&layout=compact" />
+
+<img align="bottom" src="https://komarev.com/ghpvc/?username=LoserCheems" alt="losercheems" />
