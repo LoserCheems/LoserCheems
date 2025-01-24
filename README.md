@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LoserCheems&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=LoserCheems&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" /> -->
 
 
 # Jingze Shi
