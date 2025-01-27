@@ -3,6 +3,8 @@
 
 # Jingze Shi
 
+**news**: I am looking for a research internship in the field of NLP, if you have any information, please contact me. 📧
+
 ### *Independent Researcher* 🐕
 
 - 2022.9-*Present* Undergraduate Student
