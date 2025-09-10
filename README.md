@@ -1,6 +1,3 @@
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=LoserCheems&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" /> -->
-
-
 # Jingze Shi
 
 <!-- **news**: I am looking for a research internship in the field of NLP. If you have any information, don't hesitate to get in touch with me. 📧 -->
@@ -16,7 +13,13 @@
 - 2024.06-2024.11 **[Huawei Track of Challenge Cup](https://competition.huaweicloud.com/information/1000042047/introduction)** First Prize
 
 
-## Research Interests 🔭
+## Publications 📝
+
+- **Trainable Dynamic Mask Sparse Attention** [[Paper](https://arxiv.org/abs/2508.02124)]  
+- **Concise Reasoning, Big Gains: Pruning Long Reasoning Trace with Difficulty-Aware Prompting** [[Paper](https://arxiv.org/abs/2505.19716)]
+
+
+## Research Direction 🔭
 
 - Natural Language Processing
 - Large Language Models
@@ -34,7 +37,3 @@
 - Programming Framework: **PyTorch**, Transformers
 
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoserCheems&layout=compact" />
-
-<img align="bottom" src="https://komarev.com/ghpvc/?username=LoserCheems" alt="losercheems" />
