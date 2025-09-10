@@ -5,7 +5,7 @@
 
 <!-- **news**: I am looking for a research internship in the field of NLP. If you have any information, don't hesitate to get in touch with me. 📧 -->
 
-### *Independent Researcher* 🐕
+### *Researcher* 🐕
 
 - 2022.9-*Present* Undergraduate Student
 
@@ -23,14 +23,15 @@
 - Small Language Models
 - Foundation Models
 - Deep Reinforcement Learning
+- High Efficient Algorithm
 
 
 ## Skills ⚒️
 
 - Natural Language: 简体中文, English
 - Programming Language: **Python**, C++
-- Typesetting Language: **LaTeX**, Markdown
-- Programming Framework: **PyTorch**
+- Typesetting Language: **Markdown**, LaTeX
+- Programming Framework: **PyTorch**, Transformers
 
 
 
