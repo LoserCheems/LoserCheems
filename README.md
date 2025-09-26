@@ -11,6 +11,7 @@
 
 - 2023.11-2023.12 **[Hundreds Models to Thousands Modals](https://competition.huaweicloud.com/information/1000041979/introduction)** First Prize
 - 2024.06-2024.11 **[Huawei Track of Challenge Cup](https://competition.huaweicloud.com/information/1000042047/introduction)** First Prize
+- 2025.06-2025.09 **[PAZHOU Algorithm Competition](https://deepvision.aicompetition-pz.com/#/homeDetail?id=1933438078467272705)** First Prize
 
 
 ## Publications 📝
