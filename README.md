@@ -1,10 +1,11 @@
 # Jingze Shi
 
-<!-- **news**: I am looking for a research internship in the field of NLP. If you have any information, don't hesitate to get in touch with me. 📧 -->
+**news**: I am looking for a engineering internship in the field of LLM. If you have any information, don't hesitate to get in touch with me. 📧
 
-### *Researcher* 🐕
+### *Experience* 🐕
 
 - 2022.9-*Present* Undergraduate Student
+- 2025.10-2026.2 Research Assistant of The Hong Kong University of Science and Technology
 
 
 ## Competition Awards 🏆
@@ -33,7 +34,7 @@
 ## Skills ⚒️
 
 - Natural Language: 简体中文, English
-- Programming Language: **Python**, C++
+- Programming Language: **C++**, Python
 - Typesetting Language: **Markdown**, LaTeX
 - Programming Framework: **PyTorch**, Transformers
 
