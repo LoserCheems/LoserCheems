@@ -1,5 +1,7 @@
 # Jingze Shi
 
+I prefer something with more practical value rather than just a story.
+
 **news**: I am looking for a engineering internship in the field of LLM. If you have any information, don't hesitate to get in touch with me. 📧
 
 ### *Experience* 🐕
