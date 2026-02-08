@@ -19,7 +19,9 @@
 
 ## Publications 📝
 
-- **Trainable Dynamic Mask Sparse Attention** [[Paper](https://arxiv.org/abs/2508.02124)]  
+- **Trainable Dynamic Mask Sparse Attention** [[Paper](https://arxiv.org/abs/2508.02124)]
+- **OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale** [[Paper](https://arxiv.org/abs/2602.05711)]
+- **Towards Automated Kernel Generation in the Era of LLMs** [[Paper](https://arxiv.org/abs/2601.15727)]
 - **Concise Reasoning, Big Gains: Pruning Long Reasoning Trace with Difficulty-Aware Prompting** [[Paper](https://arxiv.org/abs/2505.19716)]
 
 
