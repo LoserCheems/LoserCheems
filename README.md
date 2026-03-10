@@ -12,16 +12,16 @@
 
 ## Competition Awards 🏆
 
-- 2023.11-2023.12 **[Hundreds Models to Thousands Modals](https://competition.huaweicloud.com/information/1000041979/introduction)** First Prize
-- 2024.06-2024.11 **[Huawei Track of Challenge Cup](https://competition.huaweicloud.com/information/1000042047/introduction)** First Prize
+- 2023.11-2023.12 **[Huawei Developer Competition](https://competition.huaweicloud.com/information/1000041979/introduction)** First Prize
+- 2024.06-2024.11 **[Challenge Cup Competition](https://competition.huaweicloud.com/information/1000042047/introduction)** First Prize
 - 2025.06-2025.09 **[PAZHOU Algorithm Competition](https://deepvision.aicompetition-pz.com/#/homeDetail?id=1933438078467272705)** First Prize
 
 
 ## Publications 📝
 
-- **Trainable Dynamic Mask Sparse Attention** [[Paper](https://arxiv.org/abs/2508.02124)]
 - **OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale** [[Paper](https://arxiv.org/abs/2602.05711)]
 - **Towards Automated Kernel Generation in the Era of LLMs** [[Paper](https://arxiv.org/abs/2601.15727)]
+- - **Trainable Dynamic Mask Sparse Attention** [[Paper](https://arxiv.org/abs/2508.02124)]
 - **Concise Reasoning, Big Gains: Pruning Long Reasoning Trace with Difficulty-Aware Prompting** [[Paper](https://arxiv.org/abs/2505.19716)]
 
 
