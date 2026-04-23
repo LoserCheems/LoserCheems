@@ -6,8 +6,10 @@
 
 ### *Experience* 🐕
 
-- 2022.9-*Present* Undergraduate Student
-<!-- - 2025.10-2026.2 Research Assistant of The Hong Kong University of Science and Technology -->
+<!-- - 2022.9-*Present* Undergraduate Student -->
+- 2025.10-*Present* Research Assistant of The Hong Kong University of Science and Technology
+- 2026.4-*Present* Intern of Beijing Academy of Artificial Intelligence
+
 
 
 ## Competition Awards 🏆
