@@ -1,18 +1,18 @@
-# Jingze Shi
+<!-- # Jingze Shi -->
 
-<!-- I prefer something with more practical value rather than just a story. -->
+I like algo-hardware co-design at BAAI.
 
 <!--  **news**: I am looking for a engineering internship in the field of LLM. If you have any information, don't hesitate to get in touch with me. 📧 -->
 
-### *Experience* 🐕
+<!-- ### *Experience* 🐕 -->
 
 <!-- - 2022.9-*Present* Undergraduate Student -->
-- 2025.10-*Present* Research Assistant of The Hong Kong University of Science and Technology
-- 2026.4-*Present* Intern of Beijing Academy of Artificial Intelligence
+<!-- - 2025.10-*Present* Research Assistant of The Hong Kong University of Science and Technology -->
+<!-- - 2026.4-*Present* Intern of Beijing Academy of Artificial Intelligence -->
 
 
 
-## Competition Awards 🏆
+<!-- ## Competition Awards 🏆
 
 - 2023.11-2023.12 **[Huawei Developer Competition](https://competition.huaweicloud.com/information/1000041979/introduction)** First Prize
 - 2024.06-2024.11 **[Challenge Cup Competition](https://competition.huaweicloud.com/information/1000042047/introduction)** First Prize
@@ -44,4 +44,4 @@
 - Typesetting Language: **Markdown**, LaTeX
 - Programming Framework: **PyTorch**, Transformers
 
-
+ -->
