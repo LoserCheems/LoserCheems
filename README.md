@@ -1,6 +1,6 @@
 <!-- # Jingze Shi -->
 
-I like algo-hardware co-design at BAAI.
+I like algo-hardware co-design.
 
 <!--  **news**: I am looking for a engineering internship in the field of LLM. If you have any information, don't hesitate to get in touch with me. 📧 -->
 
